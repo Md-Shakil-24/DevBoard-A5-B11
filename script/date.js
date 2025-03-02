@@ -1,3 +1,4 @@
+
 function updateDate() {
     let d = new Date();
     let options = { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' };
